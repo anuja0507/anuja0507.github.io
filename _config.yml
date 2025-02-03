@@ -1,11 +1,16 @@
-title: Anuja Deshpande
-logo: "/images/logo.png?raw=true"
-description: |
-  **Name:** Anuja Deshpande
-  **Email:** anuja0507@gmail.com
-  **Country:** Melbourne, Australia
-  **Citizenship:** Australian Citizen
-  <a href="https://www.linkedin.com/in/anuja-deshpande/">View My LinkedIn Profile</a>
+Title: Anuja Deshpande
+Logo: "/images/logo.png?raw=true"
+Description: |
+  Email: anuja0507@gmail.com
+  Country: Melbourne, Australia
+  Citizenship: Australian Citizen
+
+Education: |
+Bachelor of Engineering (B.E.) in Electronics & Telecommunication,
+Yeshwantrao Chavan College of Engineering (Y.C.C.E.), Nagpur, India
+July 2006 - June 2010
+  
+<a href="https://www.linkedin.com/in/anuja-deshpande/">View My LinkedIn Profile</a>
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
