@@ -10,7 +10,7 @@ I have gained experience working across geographies such as **India**, **the USA
 # Certifications:
 PL 300 - Microsoft Certified Power BI Data Analyst Associate
 
-# Pofessional Skills:
+# Technical Skills:
 **Cloud Platforms:-**       | AWS | GCP |\
 **Database Concepts:-**     | Data Modelling | Data Warehousing |\
 **Databases:-**             | Oracle | Postgres |\
