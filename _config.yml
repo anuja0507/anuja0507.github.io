@@ -10,7 +10,7 @@ education: |
   Yeshwantrao Chavan College of Engineering (Y.C.C.E.), Nagpur, India
   July 2006 - June 2010
   
-<a href="https://www.linkedin.com/in/anuja-deshpande/">View My LinkedIn Profile</a>
+#<a href="https://www.linkedin.com/in/anuja-deshpande/">View My LinkedIn Profile</a>
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
