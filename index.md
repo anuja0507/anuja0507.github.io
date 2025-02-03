@@ -91,7 +91,7 @@ Slicers:\
 Select year: Allow users to customize the dashboard to display data for any year\
 Select School: Allow users to customize the dashboard to display data for any School
 
-**Power BI VISD Enrollment Report:** [PowerBI_Enrollment_Overview](https://github.com/anuja0507/Portfolio-AnujaDeshpande/blob/f5ec30b5d28e483d07a0f21f74db79eb22937eca/3_PowerBI_School_Project_Enrollment_Overview.jpg)
+**Power BI VISD Enrollment Report:** [PowerBI_Enrollment_Overview](PowerBI_School_Project_Enrollment_Overview.jpg)
 
 **Power BI VISD Attendance Report:**[PowerBI_Attendance_Overview](https://github.com/anuja0507/Portfolio-AnujaDeshpande/blob/02eb7b458c3808e36514958f13b98fa330a348f2/3_PowerBI_School_Project_Attendance_Overview.jpg)
 
