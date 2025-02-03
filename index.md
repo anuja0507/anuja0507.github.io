@@ -143,13 +143,3 @@ Select School: Allow users to customize the dashboard to display data for any Sc
 2. There are 76.29% students for current year with 100% Attendance.
 3. There are 2% students who falls under Chronic Absentism bracket where attendance is less than 85%
 4. Absent Rate is high during April to August months due to sickness.
-
-
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
