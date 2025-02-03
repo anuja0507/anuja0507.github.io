@@ -21,6 +21,11 @@ PL 300 - Microsoft Certified Power BI Data Analyst Associate
 **Programming Languages:-** | SQL,PLSQL | Python |\
 **Operating System:-**      | Unix |
 
+# Education:
+Bachelor of Engineering (B.E.) in Electronics & Telecommunication,\
+Yeshwantrao Chavan College of Engineering (Y.C.C.E.), Nagpur, India\
+July 2006 - June 2010
+
 # Previous projects with roles and responsibilities:
 
 <ins>**August 2020 - April 2023 (Remote from Australia)**</ins>\
