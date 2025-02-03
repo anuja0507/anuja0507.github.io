@@ -123,7 +123,7 @@ Select School: Allow users to customize the dashboard to display data for any Sc
 
 **Power BI VISD Enrollment Report:** [PowerBI_Enrollment_Overview](PowerBI_School_Project_Enrollment_Overview.jpg)
 
-**Power BI VISD Attendance Report:**[PowerBI_Attendance_Overview](https://github.com/anuja0507/Portfolio-AnujaDeshpande/blob/02eb7b458c3808e36514958f13b98fa330a348f2/3_PowerBI_School_Project_Attendance_Overview.jpg)
+**Power BI VISD Attendance Report:**[PowerBI_Attendance_Overview](PowerBI_School_Project_Attendance_Overview.jpg)
 
 
 # Key Findings:
