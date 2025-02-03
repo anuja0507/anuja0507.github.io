@@ -54,7 +54,7 @@ PL 300 - Microsoft Certified Power BI Data Analyst Associate
 • Majorly involved in managing downstream, upstream, customer communication, analysis, maintenance and testing using Oracle DB and Unix programming.\
 • Maintained a loan management system and automated various processes for reducing manual efforts for weekly, monthly and yearly activities using SQL/PLSQL & Unix scripts.
 
-# 3. PowerBI Project:
+# PowerBI Project:
 Education domain has a significant importance in shaping effective learning experiences. 
 Data analytics in education is the use of data to understand and improve educational processes, practices, and outcomes. 
 It can involve different types of data, such as student demographics, attendance, grades, test scores, enrollment, behavior etc. 
